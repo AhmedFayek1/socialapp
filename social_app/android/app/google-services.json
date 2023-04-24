@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "116488276857",
+    "project_id": "sicial-app",
+    "storage_bucket": "sicial-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116488276857:android:121b8c2fba584b74267da8",
+        "android_client_info": {
+          "package_name": "com.MySocialApp.social_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116488276857-02pthprrq0snpmo9ccat3uk6d4r60vjp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.MySocialApp.social_app",
+            "certificate_hash": "e88b665873f29232866aa275f3cc979f4eee7cac"
+          }
+        },
+        {
+          "client_id": "116488276857-rkot4aalqg3v7df41gds4v84o75i1ai4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5v6LEjKWNkXNL0k7ZeS0yokuu56H_DOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116488276857-rkot4aalqg3v7df41gds4v84o75i1ai4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
